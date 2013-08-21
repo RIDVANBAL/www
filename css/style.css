@@ -1,0 +1,11 @@
+.showbiz-container				{	max-width:820px; min-width:150px; overflow:hidden;
+									padding:0px 20px;margin:0px auto 10px;
+									box-sizing:border-box;
+									-moz-box-sizing:border-box;
+									-webkit-box-sizing:border-box;
+								}
+
+.showbiz-container.darkbg		{	padding:20px;
+									background:#d5d5d5;
+									max-width:1170px;
+								}
